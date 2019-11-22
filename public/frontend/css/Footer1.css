@@ -1,0 +1,168 @@
+/*.......footer.........*/
+.footerdiv{
+    padding: 10px 10px 10px 10px;
+    background: #191d22; 
+    background-color: gainsboro;
+}   
+.footer-top .footer-Subscribe{
+    /*margin-left:140px;*/
+     /*border: 2px solid indianred;*/
+
+    width: 50%;
+     -webkit-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+    padding: 0;
+   
+}
+
+.footer-top .footer-Subscribe form{
+    padding: 0;
+}
+
+.footer-top {
+    text-align: left;
+    margin-left:0px;
+}
+
+.footer-top input[type="email"] {
+	background-color: white;
+    display: inline-block;
+    /*background: #2b2a2a;*/
+    border: none;
+    float: left;
+    /*width: 80%;*/
+    width:75%;
+    outline: none;
+    padding: .7em 1em;
+    /*font-size: 1em;*/
+    font-size: .9em;
+    /*color: #fff;*/
+    letter-spacing: 1px;
+}
+.footer-top input[type="submit"] {
+    outline: none;
+    color: #FFFFFF;
+    padding:10px;
+    font-size: 1em;
+    float: left;
+    width: 25%;
+    background: #06247e;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+    margin-bottom: -1px;
+}
+.footer-top input[type="submit"]:hover{
+	background:#2c925e;
+	-webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+
+
+
+.footerlinks{
+   /*margin-top: 60px;*/
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto auto;
+    /*border-radius: 4px;*/
+    padding: 10px 20px 10px 200px;
+    background: gainsboro;
+ }
+
+.footerlink{
+border-bottom: 2px solid whitesmoke;
+}
+.collapse1{
+    background-color: lightgrey;
+}
+.OurProduct{
+     display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto auto;
+    /*border-radius: 4px;*/
+    padding: 10px 10px 10px 240px;
+    /*background: gainsboro;*/
+}
+#Feedback input[type="text"]{
+     height:30px;
+}
+#Feedback input[type="textarea"]{
+     height:50px;
+}
+
+.connections{
+    color:#536d9e;
+    background-color:gainsboro;
+    margin-top: 10px;
+     border-bottom: 2px solid whitesmoke;
+     padding: 10px;
+
+}
+
+.social-button{
+    font-size: 30px;
+    color:#536d9e;
+}
+.weaccept
+{
+    font-size: 40px;
+    color:#536d9e;
+}
+.copywrite{
+
+    padding:1px;
+     background: gainsboro;
+      color:#536d9e;
+}
+.copywrite p {
+    text-align: center;
+    font-weight: 600;
+    font-size: 13px;
+}
+.footer-top p {
+    font-size: 1.5em;
+    color: #000;
+    margin:1em 0 2em;
+}
+
+
+
+@media only screen and (max-width:320px){
+
+.social-button {
+    font-size: 27px;
+    color: #536d9e;
+}
+.weaccept {
+    font-size: 27px;
+    color: #536d9e;
+}
+
+}
+
+@media only screen 
+and (min-width:320px)
+and (max-width:420px){
+
+.social-button {
+    font-size: 27px;
+    color: #536d9e;
+}
+.weaccept {
+    font-size: 27px;
+    color: #536d9e;
+}
+
+}
+
+
+

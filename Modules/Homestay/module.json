@@ -1,0 +1,16 @@
+{
+    "name": "Homestay",
+    "alias": "homestay",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Homestay\\Providers\\HomestayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

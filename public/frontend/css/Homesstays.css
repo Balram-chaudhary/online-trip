@@ -1,0 +1,20 @@
+.photo-container1{
+	max-height: 150px;
+	padding: 5px;
+	min-height: 150px;
+	max-width: 160px;
+	border-radius: 5px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 106px;
+    right: 33px;
+}
+.list-container-inlinehome {
+   display: inline-block;
+    margin-bottom: 0px; 
+    margin-top: 0px;
+    float: left;
+    margin-left: 0px;
+    font-size: 14px;
+}

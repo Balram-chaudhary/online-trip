@@ -1,0 +1,16 @@
+{
+    "name": "Hotels",
+    "alias": "hotels",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Hotels\\Providers\\HotelsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

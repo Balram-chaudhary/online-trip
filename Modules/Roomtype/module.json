@@ -1,0 +1,16 @@
+{
+    "name": "Roomtype",
+    "alias": "roomtype",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Roomtype\\Providers\\RoomtypeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

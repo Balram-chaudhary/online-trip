@@ -1,0 +1,127 @@
+.photo-container{
+	max-height: 150px;
+	padding: 10px;
+	min-height: 150px;
+	margin-left: -30px;
+	max-width: 160px;
+}
+input#firstname, input#lastname, input#email, input#password1,.form-control input#datepicker, input#tel ,select.form-control{
+    /*padding: 12px 10px;*/
+    font-size: 14px;
+    width: 54%;
+    border: none;
+    border: 1px solid #dadada;
+    color: #777;
+    text-align: justify;
+    outline: none;
+    letter-spacing: 1px;
+    font-weight: normal;
+    background-color: transparent;
+}
+.deparaf
+{
+	/*margin-bottom: 10px;*/
+	/*background-color: blue;*/
+	display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto auto auto;
+   border-radius: 4px;
+  /*padding: 10px 5px 10px 5px;*/
+    margin-bottom: 5px;
+    margin-left: 25px;
+    /*background-color: whitesmoke;*/
+    background-color: #00253c;
+    color: white;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: -webkit-fill-available;
+
+
+     -webkit-box-shadow: 0px 1px 10px 1px #bababa;
+    -moz-box-shadow: 0px 1px 10px 1px #bababa;
+    -o-box-shadow: 0px 1px 10px 1px #bababa;
+    -ms-box-shadow: 0px 1px 10px 1px #bababa;
+    box-shadow: 0px 1px 10px 1px #bababa;
+}
+.depaturelabel{
+	margin-left: 70px;
+}
+.dlo,.dlt{
+	border-right: 1px solid white;
+	margin-left: 10px;
+    margin-right: 20px;
+}
+.ok{
+	margin-left: 10px;
+    margin-right: 20px;
+}
+
+.timeduration,.list-con{
+	display: grid;
+    grid-gap: 10px 35px;
+    grid-template-columns: auto auto auto;
+
+}
+.list-con{
+	display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto;
+    margin-left: 0px;
+
+}
+.list-con a{
+	margin-left: 0px;
+}
+.select-set{
+	margin-right: -15px;
+}
+
+
+.zoom1{
+    transition: transform .8s;
+    width: 100%;
+    height: 100%;
+    margin:10px;
+    
+
+}
+
+.zoom1:hover {
+    transform: scale(1.03);
+}
+#container .image-container1 {
+    text-align: center;
+    height: 100px;
+    vertical-align: middle;
+    display: block;
+}
+
+
+#image-container1 img {
+    max-width: 125px;
+    max-height: auto;
+    border:1px solid black;   
+    margin: 10px 39px 10px 0px;
+   
+}
+
+.popover-margin li{
+    margin-top: 5px;
+
+}
+.popover-margin img{
+    width: 175px;
+    height: 150px;
+
+}
+
+.popover.right{
+    margin-left: -80px;
+    background-color: whitesmoke;
+}
+
+.boding-points li{
+    display: inline;
+}

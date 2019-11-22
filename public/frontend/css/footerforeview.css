@@ -1,0 +1,170 @@
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    background-color: gainsboro;
+    float: left;
+}
+
+@media (max-width: 767px){
+.footerdiv {
+  width: 96%;
+    margin-left: 7px;
+    margin-top: 36em;
+}
+}
+
+@media (max-width: 736px){
+.footerdiv {
+    width: 96%;
+    margin-left: 7px;
+    margin-top: 46em;
+}
+}
+@media (max-width: 667px){
+.footerdiv {
+    margin-top: 42em;
+}
+}
+@media (max-width: 640px){
+.footerdiv {
+   margin-top: 32em;
+}
+}
+@media (max-width: 491px){
+.footerdiv {
+    margin-top: 36em;
+}
+}
+@media (max-width: 480px){
+.footerdiv {
+    margin-top: 36em;
+}
+}
+
+@media (max-width: 480px){
+.footerdiv {
+    margin-top: 32em;
+}
+}
+@media (max-width: 414px){
+.footerdiv {
+    width: 100%;
+    margin-left: 7px;
+    margin-top: 33em;
+}
+}
+@media (max-width: 320px){
+.footerdiv {
+    width: 100%;
+    margin-left: 7px;
+    margin-top: 33em;
+}
+}
+/*
+@media (max-width: 1080px)
+{
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    background-color: gainsboro;
+    margin-top: 67em;
+}
+}
+@media (max-width: 991px)
+{
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+   margin-top: 80em;
+    background-color: gainsboro;
+}
+}
+@media (max-width: 800px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 82em;
+}
+}
+
+@media (max-width: 768px){
+.footerdiv {
+    margin-top: 84em;
+}
+}
+
+
+@media (max-width: 736px){
+.footerdiv {
+    margin-top: 105em;
+}
+}
+@media (max-width: 667px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 92em;
+}
+}
+@media (max-width: 640px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 96em;
+}
+}
+@media (max-width: 600px){
+.footerdiv {
+    margin-top: 94em;
+}
+}
+@media (max-width: 480px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 83em;
+}
+}
+@media (max-width: 414px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 94em;
+}
+}
+@media (max-width: 385px){
+.footerdiv {
+    margin-top: 89em;
+}
+}
+@media (max-width: 375px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 96em;
+}
+}
+@media (max-width: 360px){
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    position: absolute;
+    background-color: gainsboro;
+    margin-top: 91em;
+}
+}
+*/
+

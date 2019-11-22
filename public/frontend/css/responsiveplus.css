@@ -1,0 +1,3395 @@
+   #checkAvailability{
+    margin-top: 5%;
+}
+
+@media(max-width:1440px)
+{
+
+/* hotel homestay */
+.information-container a[type="button"] {
+    position: absolute;
+    right: 33px;
+    top: 65%;
+}
+.information-container .display-price {
+        margin-top: 38px;
+    margin-right: 22px;
+}
+/* activities dailogbox */
+#activitiesModal{
+    display: block;
+    right: 0;
+    top: 35%;
+    padding-right: 17px;
+    z-index: 9999;
+}
+/*review payment */
+.amountdetaidiv {
+   position: fixed;
+    top: 106px;
+    left: 66%;
+    z-index: 11;
+    width: 35%;
+}
+#tab_item-0 .expiraionnextfield {
+    margin-top: 27px;
+    margin-left: -10px;
+    margin-right: -29px;
+   width: 34%;
+}
+.form-horizontal .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: 15px;
+}
+/* footer*/
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    background-color: gainsboro;
+}
+}
+@media(max-width:1366px)
+{
+
+/* homestay hotel search */
+.information-container a[type="button"] {
+    position: absolute;
+   top: 125px;
+    right: 33px;
+}
+/*review payment */
+.amountdetaidiv {
+    position: fixed;
+    top: 106px;
+    left: 66%;
+    z-index: 11;
+}
+}
+@media(max-width:1280px)
+{
+/*review payment */
+.amountdetaidiv {
+   position: fixed;
+    top: 106px;
+    left: 66%;
+    z-index: 11;
+}
+.paymentsumit input[type="submit"] {
+    margin-top: 15px;
+    margin-left: -15px;
+    padding: 5px;
+    width: 183%;
+}
+.form-horizontal .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: 14px;
+}
+/*activity */
+.imagecolum {
+    background-color: whitesmoke;
+    padding: 0;
+    top: 2px;
+    float: right;
+    margin-right: 0px;
+}
+.package1 .bottom-right {
+    position: absolute;
+    bottom: 30%;
+    right: 0;
+    left: 51%;
+}
+
+/* hotel,homestay searchfile*/
+.zoom{
+width: 110%;
+ margin-left: -30px;
+}
+}
+@media(max-width:1080px)
+{
+/*review payment */
+
+div > .modal-photo-container12 {
+    width: 338px;
+    }
+.inform {
+    margin-top: 10px;
+    float: right;
+    width: 38%;
+}
+.amountdetaidiv {
+    position: fixed;
+    top: 106px;
+   left: 66%;
+   width: 44%;
+    z-index: 11;
+}
+.form-horizontal .control-label {
+   padding-top: 7px;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: 10px;
+}
+.classexpitration
+{
+margin-top: 22px;
+}
+.labelforbrand {
+    margin-left: 16px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.travellerdetail-title2 {
+    margin-bottom: 0px;
+    width: 39%;
+}
+#tab_item-0 .expiraionnextfield {
+    margin-top: 24px;
+    margin-left: -10px;
+    margin-right: -29px;
+    width: 34%;
+}
+/* activity */
+
+.example-image {
+   width: 134%;
+    /* height: 100%; */
+    border-radius: 4px;
+    /* min-height: 300px; */
+    /* max-height: 495px; */
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.column img {
+    display: unset;
+    opacity: 0.8;
+     cursor: pointer;
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    margin-right: 10px;
+    border-radius: 2px;
+    
+}
+
+.imagecolum {
+   background-color: whitesmoke;
+    padding: 10px;
+    top: 2px;
+    float: right;
+    margin-right: 3px;
+    width: 15%;
+}
+
+.package1 .bottom-right {
+    position: absolute;
+    bottom: 33%;
+    right: 0;
+    left: 47%;
+    }
+
+/* hotel,homestay searchfile*/
+.zoom{
+width: 110%;
+ margin-left: -30px;
+}
+.information-container{
+width: 74%;
+left: 25px;
+
+}
+ #homestay #image-container img {
+    /* border: 1px solid black; */
+    /* margin: 10px 39px 10px 0px; */
+    width: 191px;
+    height: 204px;
+    margin-left: -15px;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+}
+
+/*bus search */
+
+.timeduration {
+    display: grid;
+    grid-gap: 10px 25px;
+    grid-template-columns: auto auto auto;
+    margin-left: -11px;
+}
+.bus-position .display-price {
+    float: right;
+    margin-top: 1px;
+    margin-right: -26px;
+}
+
+
+/*footer*/
+.footer-top {
+    text-align: left;
+    margin-left: 0px;
+}
+.connectionweaccept{
+   margin-left: 10px;
+    width: 32%;
+}
+}
+@media(max-width:1024px)
+{
+
+/* hotel,homestay searchfile*/
+.information-container{
+width: 74%;
+left: 31px;
+}
+
+}
+@media(max-width:991px)
+{
+/*review payment */
+.inform {
+    margin-top: 10px;
+    /* margin-left: 184px; */
+    float: right;
+    width: 33%;
+}
+.amountdetaidiv {
+   position: fixed;
+    top: 106px;
+    left: 66%;
+    z-index: 11;
+    width: 35%;
+}
+.form-horizontal .control-label {
+    padding-top: 7px;
+    /* margin-left: 0px; */
+    margin-bottom: 0;
+    text-align: right;
+    font-size: 10px;
+}
+#tab_item-0 .expiraionnextfield {
+    margin-top: 23px;
+    margin-left: -10px;
+    margin-right: -29px;
+    width: 36%;
+}
+.amountdetai label {
+    width: 52%;
+}
+.radioforgrid {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    width: 137%;
+    font-size: 12px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/* activity page ko dailogebox2*/
+.simple-card3 {
+    position: absolute;
+   top: 19%;
+    right: 16px;
+}
+.infromationforus{
+width: 70%;
+}
+.travellerdetail-title2 {
+    margin-bottom: 10px;
+    width: 50%;
+}
+/*activities */
+
+.top-grid {
+    width: 30.88%;
+}   
+ .exampleimage img {
+    width: 87%;
+    height: 55%;
+}
+.imagecolum{
+   top: -336px;
+    width: 16%;
+    display: grid;
+    grid-template-columns: auto;
+    right: 0;
+}
+
+.column img {
+    display: unset;
+    opacity: 0.8;
+    cursor: pointer;
+    height: 54px;
+    width: 50px;
+    border-radius: 2px;
+}
+.tab-widter{
+    width: 76%;
+}
+
+ .simple-card4 .packages_grid1, .packages_grid2 {
+    text-align: center;
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto auto;
+}
+.package1 img {
+   position: relative;
+    width: 40%;
+    float: left;
+    border-radius: 5px;
+}
+.package1 .bottom-left {
+     position: absolute;
+    bottom: 22%;
+    left: 29%;
+}
+.package1 .bottom-right {
+   position: absolute;
+    bottom: 30%;
+    left: 20%;
+    }
+    
+  .chekinout {
+    margin-top: -200px;
+    float: left;
+}  
+/*activities dailogbox */    
+ .modal-bodyhieght {
+    height: 185px;
+    padding: 5px;
+}
+#myNumber1{
+top: 55px;
+}
+.Traveller #up1 {
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    top: 55px;
+}
+.Traveller #down1 {
+    top: 55px;
+}
+   .checkavailabel a {
+    margin-top: 18%;
+    }
+    
+.agelimit {
+    margin-top: -154px;
+    margin-left: 237px;
+}    
+.closebuttom{
+display: none;
+}
+.modal-footer {
+border-top: none;
+}   
+#checkAvailability{
+    margin-top: 19%;
+}
+/* hotel,homestay searchfile*/
+.information-container{
+width:unset;
+left: unset;
+
+}
+
+#homestay .information-container {
+    float: right;
+    width: 84%;
+    margin-top: -155px;
+    left: 10px;
+}
+.zoom{
+width: 110%;
+ margin-left: -30px;
+}
+.container-left {
+    display: none;
+    }
+    .container-right {
+    width: 100%;
+    }
+    .container-right {
+    width: 100%;
+    }
+    .nav-justified > li {
+    float:left;
+    width: 24%;
+}
+.information-container{
+
+    float: right;
+    width: 75%;
+    margin-top: -200px;
+    left: 10px;
+}
+#homestay .zoom {
+    width: 114%;
+    margin-left: -43px;
+}
+#homestay #image-container img {
+   margin-left: -17px;
+    margin-top: -1px;
+    width: 39%;
+    height: 146px;
+}
+#homestay .information-container {
+    float: right;
+    width: 84%;
+    margin-top: -184px;
+    left: 9px;
+    top: 29px;
+}
+#homestay .information-container a[type="button"] {
+    position: absolute;
+    top: 102px;
+    right: 33px;
+}
+#homestay small.pull-right{
+margin-top: -26px;
+margin-right: 10px;
+}
+/* hotel homestay detail */
+.roomsrow label{
+font-size: 15px;
+}
+.extrastyle
+{
+margin-bottom: -241px;
+}
+.payselector{
+margin-top: 222px;
+}
+/* bus seach*/
+.bus-position{
+position: absolute;
+    width: 65%;
+    right: 68px;
+}
+.bus-position .display-price {
+    float: right;
+    margin-top: 1px;
+    margin-right: 0px;
+}
+
+/* bus set */
+div.seatCharts-row {
+    height: 35px;
+    width: max-content;
+    display: inline-grid;
+}
+div.seatCharts-container {
+    width: 45%;
+    float: left;
+    margin-top: -35px;
+    margin-left: 26px;
+}
+#Seatselectionmodal .modal-body {
+    height: 455px;
+}
+.searchbar #search {
+    /* left: -115px; */
+    padding: 17px;
+    padding-left: 55px;
+    width: 90%;
+    }
+    
+  .bus-position{
+  position: absolute;
+  
+  }  
+ .timeduration {
+    grid-gap: 10px 3px;
+    grid-template-columns: auto auto auto;
+    margin-left: 117px;
+    width: 59%;
+}
+.select-set {
+    margin-top: 4px;
+    margin-right: 31px;
+}
+
+/*footer */
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    background-color: gainsboro;
+}
+
+}
+@media(max-width:900px)
+{
+
+/* hotel homestay search */
+.information-container #detail-container h3 {
+    font-size: 20px;
+}
+#homestay .zoom {
+    width: 107%;
+    margin-left: -43px;
+}
+/* hotel homestay detaile */
+.roomsrow label {
+    font-size: 12px;
+}
+#rooms {
+    margin-left: 44px;
+    margin-bottom: 10px;
+    background-color: #00253c;
+    margin-right: 91px;
+    /* padding-top: 10px; */
+    /* padding: 5px; */
+    border: 0.25em solid #00253c;
+    margin-top: 0px;
+    width: 88%;
+}
+#amneties.for-gridfild {
+    background-color: white;
+    margin: 0;
+}
+/* review payment */
+.inform {
+    margin-top: 10px;
+    /* margin-left: 184px; */
+    float: right;
+    width: 25%;
+}
+    .amountdetaidiv {
+   position: fixed;
+    top: 28%;
+    left: 65.5%;
+    z-index: 11;
+    width: 34%;
+    padding-right: 0;
+
+}
+.amountdetai label{
+width:52%;
+}
+
+.travellerdetail-title2 {
+    margin-bottom: 10px;
+    width: 48%;
+}
+.expiraionnextfieldone{
+width: 100%;
+}
+#tab_item-0 .expiraionnextfield {
+    margin-top: 23px;
+    margin-left: 2px;
+    margin-right: -29px;
+    width: 100%;
+}
+.expiraionnextfieldtwo{
+width: 100%;
+    left: -15px;
+}
+.paymentdiv {
+    margin: 10px;
+    padding: 5px;
+    background-color: ghostwhite;
+    height: 523px;
+    margin-top: 10px;
+    width: 66%;
+}
+.paymentsumit{
+width: 60%;
+}
+.paymentdiv .tabitemimg button {
+    width: 108%;
+   
+}
+.tabcontent {
+    width: 149%;
+}
+.travellerdetail-title2 {
+    margin-bottom: 10px;
+    width: 54%;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/* activities */
+.package1 .bottom-left{
+left: 29%;
+}
+.package1 .bottom-right {
+left: 18%;
+}
+
+}
+@media(max-width:800px)
+{
+
+
+/*date picker  */
+
+.datepicker
+{
+width: 28%;
+}
+
+/* reveiw payment */
+div > .modal-photo-container12 {
+    width: 283px;
+    height: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.inform {
+    margin-top: 10px;
+    /* margin-left: 184px; */
+    float: right;
+    width: 36%;
+}
+.amountdetaidiv {
+   position: fixed;
+    top: 28%;
+    left: 65.5%;
+    z-index: 11;
+    width: 34.5%;
+}
+.amountdetai label{
+width:63%;
+}
+.paymentdiv {
+    margin: 10px;
+    padding: 5px;
+    background-color: ghostwhite;
+    height: auto;
+    /* border: 1px solid green; */
+    margin-top: 10px;
+    width: 66%;
+}
+.labelforbrand {
+    margin-left: 16px;
+    margin-top: 10px;
+    font-size: 11px;
+    /* width: 112%; */
+}
+.paymentdiv .tabitemimg button {
+    width: 135%;
+}
+.expiraionnextfieldtwo {
+    width: 100%;
+    left: -14px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/*activity*/
+.tab-widter {
+    width: 73%;
+}
+/* bus seach*/
+.zoom1:hover {
+    transform: scale(1.0);
+}
+.bus-position {
+    position: absolute;
+    width: 65%;
+    right: 39px;
+}
+.timeduration {
+    grid-gap: 10px 3px;
+    grid-template-columns: auto auto auto;
+    margin-left: 92px;
+    width: 57%;
+}
+
+.package1 .bottom-right {
+    left: 17%;
+    top: 54%;
+}
+.package1 .bottom-left {
+   left: 28%;
+    top: 54%;
+}
+/*hotel homestay detail */
+imagecolum {
+    top: -300px;
+    width: 15%;
+    display: grid;
+    grid-template-columns: auto;
+    right: -1px;
+    padding: 0px;
+}
+.room-selector {
+    display: inline;
+    margin-top: 20px;
+    margin-right: -58px;
+    float: right;
+}
+.imagecolum {
+    top: -300px;
+    width: 16%;
+    display: grid;
+    grid-template-columns: auto;
+    right: 0;
+    padding: 2px;
+}
+/* homestay hotel detaile */
+#rooms {
+    margin-left: 4px;
+    margin-bottom: 10px;
+    background-color: #00253c;
+    margin-right: 91px;
+    /* padding-top: 10px; */
+    /* padding: 5px; */
+    border: 0.25em solid #00253c;
+    margin-top: 0px;
+    width: 99%;
+}
+#amneties .for-gridfild {
+    background-color: white;
+    margin: 0px;
+}
+.agileits_w3layouts_main_gridl input {
+    width: 97%;
+    border: unset;
+}
+/* footer*/
+.footerdiv {
+    padding: 10px 10px 10px 10px;
+    background: #191d22;
+    background-color: gainsboro;
+}
+
+}
+@media(max-width:768px)
+{
+
+/*date picker */
+.datepicker
+{
+width: 30%;
+}
+/* homestay hotel */
+
+.polaroid-box .container-right {
+    background-color: #fff;
+    margin-left: 5px;
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+}
+.zoom {
+    width: 113%;
+    height: -webkit-fill-available;
+    margin-left: -35px;
+}
+#image-container img {
+    margin-left: -16px;
+    width: 65%;
+    height: 146px;
+}
+.information-container {
+    left: 0%;
+    top: 22%;
+}
+.information-container .display-text{
+    display: inline;
+    padding: 0;
+    font-size: 16px;
+    }
+.information-container .display-price {
+    margin-top: 5px;
+    margin-right: 40px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 50%;
+    right: 33px;
+}
+.information-container small.pull-right{
+ margin-top: -42px;
+ }
+ 
+ #homestay .information-container a[type="button"] {
+    position: absolute;
+    top: 84px;
+    right: 33px;
+}
+#homestay .information-container {
+    float: right;
+    width: 84%;
+    margin-top: -179px;
+    left: 9px;
+    top: 29px;
+}
+ /* bus search */
+ 
+ .bus-position .display-price {
+    float: right;
+    margin-top: 1px;
+    margin-right: -11px;
+    }
+.bus-position .select-set {
+    margin-top: 0px;
+    margin-right: 31px;
+}
+/*review payment */
+.amountdetaidiv {
+    position: fixed;
+    top: 106px;
+    left: 65.5%;
+    z-index: 11;
+    width: 53%;
+}
+.travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 0px;
+    width: 123%;
+}
+.amountdetai label {
+    width: 47%;
+}
+.paymentdiv {
+    margin: 10px;
+    padding: 5px;
+    background-color: ghostwhite;
+    height: auto;
+    /* border: 1px solid green; */
+    margin-top: 10px;
+    width: 66%;
+    height: 513px;
+}
+.radioforgrid {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 0px 5px;
+    width: 100%;
+    font-size: 14px;
+}
+/* activity */
+.tab-widter {
+    width: 71%;
+}
+
+.package1 .bottom-right {
+    left: 17%;
+    top: 54%;
+    width: 82%;
+}
+
+
+/* activity dailogebox */
+
+.top-grid {
+	width: 45.88%;
+         margin: 0 1em 1em 0;
+	}
+
+#activitiesModal {
+    display: block;
+    right: 0%;
+    top: 35%;
+    padding-right: 17px;
+}
+.closebuttom{
+display: none;
+}
+.checkavailabel a {
+    margin-top: 18%;
+}
+/* other added activity page*/
+.package1 img{
+    position: relative;
+    width: 100%;
+    float: left;
+    border-radius: 5px;
+}
+.discriptionactivity
+{
+width: 100%;
+    top: 10px;
+}
+.simple-card3 {
+    position: absolute;
+    top: 14%;
+    right: 16px;
+}
+/*footer*/
+.footerdiv {
+   width: 100%;
+    margin-left: 0px;
+}
+
+.footerlinks {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto;
+    padding:1px;
+}
+
+.footer-top {
+    text-align: left;
+    margin-left: 0px;
+}
+.footer-top .footer-Subscribe {
+    width: 66%;
+    padding: 0px;
+}
+
+.footer-top input[type="submit"] {
+    outline: none;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 1em;
+    float: left;
+    width: 34%;
+    background: #06247e;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.footer-top input[type="email"] {
+    background-color: white;
+    display: inline-block;
+    border: none;
+    float: left;
+    width: 66%;
+    outline: none;
+    padding: .7em 1em;
+    font-size: .9em;
+    letter-spacing: 1px;
+}
+.feedbacksubmit{
+  float: right;
+  margin-top:0px;
+ }
+.OurProduct {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+     padding: 10px 10px 10px 10px; 
+}
+.connectionweaccept{
+   margin-left: 10px;
+    width: 103%;
+}
+
+}
+@media(max-width:767px)
+{
+
+/* hotel hmestay */
+.row-mar .polaroid-box {
+    /* margin-top: -36px; */
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 1px 5px 7px 3px #aaaaaa;
+    /* margin-bottom: -45px; */
+    color: #536d9e;
+    width: 100%;
+    margin-left: 1px;
+}
+.zoom {
+    width: 100%;
+    height: -webkit-fill-available;
+    margin-left: -35px;
+}
+
+#image-container img {
+   margin-left: -25px;
+    margin-top: -11px;
+    width: 23%;
+    height: 147px;
+}
+.information-container {
+    width: 80%;
+    left: 0%;
+    top:24%;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 50%;
+    right: 33px;
+}
+#homestay .zoom {
+    width: 107%;
+    margin-left: -43px;
+}
+#homestay #image-container img {
+    margin-left: -17px;
+    margin-top: -1px;
+    width: 29%;
+    height: 146px;
+}
+#homestay .information-container {
+    float: right;
+    width: 76%;
+    margin-top: -151px;
+    left: 9px;
+    top: 2px;
+}
+#homestay .information-container a[type="button"] {
+    position: absolute;
+    top: 75px;
+    right: 33px;
+}
+/*details homestay hotel*/
+#rooms {
+    /* margin-left: 95px; */
+    margin-bottom: 10px;
+    background-color: #00253c;
+    /* margin-right: 91px; */
+    /* padding-top: 10px; */
+    /* padding: 5px; */
+    border: 0.25em solid #00253c;
+    margin-top: 0px;
+}
+.room-selector {
+    display: inline;
+    margin-top: -21px;
+    margin-right: 0px;
+    float: right;
+}
+div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width:19%;
+}
+.form-left-agileits-w3layouts button {
+    /* width: 60%; */
+    margin-left: 10px;
+    /* height: 45px; */
+    background-color: #F2670F;
+    border: none;
+    width: 115px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.tableposition .Tableborder{
+    width: 100%;
+}
+/* review payment */
+div.reviewdetails {
+    background-color: white;
+    padding: 10px;
+    /* margin-left: 5px; */
+    width: 67%;
+}
+.amountdetaidiv {
+    position: fixed;
+    top: 106px;
+    left: 65.5%;
+    z-index: 11;
+    width: 36%;
+}
+div > .modal-photo-container12 {
+    width: 264px;
+    height: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.inform {
+    position: absolute;
+    width: 39%;
+    top: 0;
+    left: 30%;
+}
+.informdate div {
+    width: 35%;
+}
+.travellerdetail2 {
+    background-color: #ccc;
+    margin-bottom: 10px;
+    width: 68%;
+}
+.amountdetai label {
+    width: 64%;
+}
+.paymentdiv {
+    margin: 10px;
+    padding: 5px;
+    background-color: ghostwhite;
+    height: auto;
+    /* border: 1px solid green; */
+    margin-top: 10px;
+    width: 66%;
+   max-height: 780px;
+}
+.tabcontent {
+    width: 100%;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+.paymentclass {
+ 
+    border: unset;
+    margin-left: 5px;
+    }
+/* activity */
+.package1 .bottom-right {
+    left: 17%;
+    top: 54%;
+    width: 81%;
+}
+
+/* activity ko dailobox */
+.checkavailabel a {
+    margin-top: 15%;
+}
+#checkAvailability {
+    margin-top: 15%;
+}
+/* hotel,homestay searchfile*/
+.container-left {
+    display: none;
+    }
+.container-right {
+    width: 100%;
+    }
+.nav-justified > li {
+    float:left;
+    width: 24%;
+}
+
+/* other activity added page */
+.simple-card3 {
+    position: absolute;
+    top: 8%;
+    right: 16px;
+}
+/* footer */
+.footerdiv {
+    width: 98%;
+    margin-left: 2px;
+}
+.footer-top .footer-Subscribe {
+    width: 57%;
+    padding: 0px;
+    left: 130px;
+}
+.footerlinks {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto;
+    padding:1px;
+     margin-top: 40px;
+}
+
+.footer-top input[type="submit"] {
+    outline: none;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 1em;
+    float: left;
+    width: 34%;
+    background: #06247e;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.footer-top input[type="email"] {
+    background-color: white;
+    display: inline-block;
+    border: none;
+    float: left;
+    width: 66%;
+    outline: none;
+    padding: .7em 1em;
+    font-size: .9em;
+    letter-spacing: 1px;
+}
+.feedbacksubmit{
+  float: right;
+  margin-top:0px;
+ }
+.OurProduct {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+     padding: 10px 10px 10px 10px; 
+}
+.connectionweaccept{
+   margin-left: 10px;
+    width: 103%;
+}
+}
+@media(max-width:736px)
+{
+/* activity */
+
+.column img {
+    display: unset;
+    opacity: 0.8;
+    cursor: pointer;
+    height: 60px;
+    width: 58px;
+    margin: 10px;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+.package1 a {
+    background: #F2670f;
+    color: #fff;
+    padding: 3px 12px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+/* review payment */
+.paymentdiv .tabitemimg button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: unset;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+.tabcontent {
+    width: 94%;
+}
+.paymentclass {
+    border-left: unset;
+    margin-left: 5px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+.informdate div {
+    width: 37%;
+}
+/* bus seach*/
+.bus-position {
+    position: absolute;
+    width: 76%;
+    right: 10px;
+}
+
+.bus-position .display-price {
+    float: right;
+    margin-top: 1px;
+    margin-right: 8px;
+}
+.bus-position .list-con {
+    display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto;
+    margin-left: 0px;
+    width: 62%;
+    margin-left: 29px;
+}
+}
+@media(max-width:667px)
+{
+/*date picker */
+.datepicker
+{
+width: 35%;
+}
+
+/* review payment*/
+.amountdetai label {
+    width: 66%;
+}
+.inform {
+    position: absolute;
+    width: 39%;
+    top: 0;
+    left: 32%;
+}
+.paymentclass {
+    /* border-left: 1px solid #e7ebee; */
+    /* border: unset; */
+    border-top: 1px solid #e7ebee;
+    margin-left: 5px;
+    margin-top: 104px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+
+/* activity */
+
+.package1 a {
+    background: #F2670f;
+    color: #fff;
+    padding: 3px 12px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.chekinout {
+    margin-top: -86px;
+    float: left;
+}
+/* activity dailogebox */
+.checkavailabel a {
+    margin-top: 17%;
+}
+#checkAvailability {
+    margin-top: 18%;
+}
+/* hotel,homestay searchfile*/
+.zoom{
+width: 111%;
+margin-left: -34px;
+}
+/* hotel homestay detaile */
+div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width: 20%;
+}
+.for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+
+/* bus seach*/
+.bus-position {
+    position: absolute;
+    width: 76%;
+    right: 3px;
+}
+.footerdiv {
+    width: 96%;
+    margin-left: 7px;
+}
+
+.footerlinks {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto;
+    padding:1px;
+}
+
+.footer-top {
+    text-align: left;
+    margin-left: 0px;
+}
+.footer-top .footer-Subscribe {
+   width: 60%;
+    padding: 0px;
+}
+
+.footer-top input[type="submit"] {
+    outline: none;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 1em;
+    float: left;
+    width: 34%;
+    background: #06247e;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.footer-top input[type="email"] {
+    background-color: white;
+    display: inline-block;
+    border: none;
+    float: left;
+    width: 66%;
+    outline: none;
+    padding: .7em 1em;
+    font-size: .9em;
+    letter-spacing: 1px;
+}
+.feedbacksubmit{
+  float: right;
+  margin-top:0px;
+ }
+.OurProduct {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+     padding: 10px 10px 10px 10px; 
+}
+.connectionweaccept{
+   margin-left: 10px;
+    width: 103%;
+}
+
+
+}
+
+@media(max-width:640px)
+{
+/* activity */
+.top-grid {
+    width: 46.7%;
+}
+.package1 .bottom-right {
+    left: 17%;
+    top: 52%;
+    /* width: 80%; */
+    padding: 0px;
+}
+
+/*bus seacrh */
+.bus-position .list-con {
+    display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto;
+    margin-left: 0px;
+    width: 62%;
+    margin-left: 36px;
+}
+/* review payment */
+div > .modal-photo-container12 {
+    width: 374px;
+    height: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.inform {
+       position: absolute;
+    width: 68%;
+    top: 92%;
+    left: -28%;
+    /* right: 36%; */
+    z-index: 11;
+}
+.informdate div {
+    width: 38%;
+}
+
+.informdate {
+    background-color: ghostwhite;
+    padding: 10px;
+    /* margin: 12px; */
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 25%;
+    width: 98%;
+}
+.amountdetai label {
+    width: 68%;
+}
+
+.zoom{
+width: 111%;;
+margin-left: -37px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/*homesaty hotel */
+#image-container img {
+    margin-left: -25px;
+    margin-top: -11px;
+    width: 29%;
+    height: 147px;
+}
+
+#homestay #image-container img {
+    margin-left: -16px;
+    margin-top: 0px;
+    width: 29%;
+    height: 147px;
+}
+#homestay .information-container {
+   width: 80%;
+    left: 4%;
+    top: 2%;
+}
+/*home saty hotel detail */
+.column img {
+    display: unset;
+    opacity: 0.8;
+    cursor: pointer;
+    height: 55px;
+    width: 51px;
+    margin: 10px;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+.for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+}
+
+@media(max-width:600px)
+{
+/*date picker */
+.datepicker
+{
+width: 40%;
+}
+/*review payment */
+div > .modal-photo-container12 {
+    width: 375px;
+    height: 250px;
+    padding-bottom: 10px;
+    margin-left: -10px;
+    /* padding-top: 10px; */
+}
+.informdate {
+    background-color: ghostwhite;
+    padding: 10px;
+   margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 34%;
+    width: 98%;
+}
+.inform {
+    position: absolute;
+    width: 68%;
+    top: 95%;
+    }
+.informdate div {
+    width: 50%;
+}
+.amountdetai label {
+    width: 73%;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/* activity */
+.tab-widter {
+    width: 69%;
+}
+
+.package1 h5 {
+    font-size: 15px;
+    font-weight: 800;
+    color: #db3552;
+    margin-bottom: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.package1 .bottom-right {
+    left: 17%;
+    top: 51%;
+    /* width: 80%; */
+    padding: 0px;
+}
+
+/* activitey dailogebox */
+.checkavailabel a {
+    margin-top: 20%;
+}
+/* bus search */
+.zoom1{
+width: 118%;
+margin-left: -52px;
+}
+
+.timeduration {
+    display: grid;
+    grid-gap: 10px 1px;
+    grid-template-columns: auto auto auto;
+    margin-left:0px;
+}
+.deparaf {
+       margin-left: -35px;
+    width: 111%;
+    }
+
+/* hotel,homestay searchfile*/
+.information-container {
+  width: 82%;
+    top: 53px;
+    left: 0;
+    }
+#homestay .information-container {
+   width: 82%;
+    top: 3px;
+    left: 21px;
+}
+.information-container .display-price {
+    margin-top: 0px;
+    margin-right: 20px;
+}
+#image-container img {
+   margin-left: -26px;
+    width: 28%;
+    height: 147px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 50%;
+    right: 9px;
+}
+/* hotel home stay detaile */
+
+div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width: 22%;
+}
+#amneties .for-gridfild {
+    background-color: white;
+    margin: 0;
+}
+/* bus seach*/
+.bus-position {
+    position: absolute;
+    width: 78%;
+    /* right: 0px; */
+    left: 129px;
+}
+}
+@media (max-width: 576px)
+{
+
+/* review payment */
+div > .modal-photo-container12 {
+    width: 363px;
+    height: 250px;
+    padding-bottom: 10px;
+    margin-left: -10px;
+    /* padding-top: 10px; */
+}
+.amountdetai label {
+    width: 73%;
+    font-size: 11px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/* activity */
+.tab-widter {
+    width: 68%;
+}
+.simple-card4 .packages_grid1, .packages_grid2 {
+    text-align: center;
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto;
+}
+.package1 .bottom-left {
+    left: 28%;
+    top: 64%;
+}
+.package1 h5 {
+    font-size: 17px;
+    font-weight: 800;
+    color: #db3552;
+    margin-bottom: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.package1 .bottom-right {
+    left: 17%;
+    top: 62%;
+    /* width: 80%; */
+    padding: 0px;
+}
+.package1 a {
+    background: #F2670f;
+    color: #fff;
+    padding: 10px 19px;
+    font-size: 13px;
+    letter-spacing: 0px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+/*other added page on activity*/
+.simple-card3 {
+    position: absolute;
+    top: 8%;
+    right: 3px;
+}
+
+/* hotel,homestay searchfile*/
+#image-container{
+margin-bottom:0px;
+}
+.information-container {
+  width: 82%;
+    top: 23%;
+}
+.information-container a[type="button"] {
+   position: absolute;
+    top: 50%;
+    right: 0px;
+    width: 28%;
+}
+#homestay .information-container a[type="button"] {
+   position: absolute;
+    top: 50%;
+    right: 32px;
+    width: 24%;
+}
+.information-container .display-price {
+    margin-top: 0px;
+    margin-right: 0px;
+}
+.information-container small.pull-right {
+    margin-top: -42px;
+    /* margin-left: 22px; */
+    margin-right: -18px;
+}
+/*homestay hotel detaile*/
+   .imagecolum {
+   top: 10px;
+    width: 93%;
+    left: -24px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    right: 0;
+    padding: 0px;
+}
+.exampleimage img {
+       width: 100%;
+    height: 55%;
+}
+.extrastyle {
+    margin-bottom: 0px;
+}
+    /*footer*/
+.footerdiv {
+    /*background-color: gainsboro;*/
+    width: 96%;
+    margin-left: 7px;
+}
+
+.footerlinks {
+    /* margin-top: 60px; */
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto;
+    /* border-radius: 4px; */
+    padding:1px;
+    /* background: gainsboro; */
+}
+
+.footer-top {
+    text-align: left;
+    margin-left: 7px;
+}
+.footer-top .footer-Subscribe {
+  width: 66%;
+    padding: 0px;
+    left: 82px;
+}
+
+.footer-top input[type="submit"] {
+    outline: none;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 1em;
+    float: left;
+    width: 34%;
+    background: #06247e;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.footer-top input[type="email"] {
+    background-color: white;
+    display: inline-block;
+    border: none;
+    float: left;
+    width: 66%;
+    outline: none;
+    padding: .7em 1em;
+    font-size: .9em;
+    letter-spacing: 1px;
+}
+.feedbacksubmit{
+  float: right;
+  margin-top:0px;
+ }
+.OurProduct {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+     padding: 10px 10px 10px 10px; 
+}
+}
+@media(max-width: 568px)
+{
+/* bus seach*/
+.bus-position {
+    position: absolute;
+    width: 78%;
+    left: 127px;
+}
+/*activity */
+.tab-widter {
+    width: 67%;
+}
+
+/* hotel,homestay searchfile*/
+#homestay .information-container a[type="button"] {
+    position: absolute;
+    top: 50%;
+    right: 19px;
+    width: 24%;
+}
+
+a[type="button"]{
+    margin-right: -10px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 50%;
+    right: 8px;
+    width: 28%;
+}
+
+/*review payment */
+.travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 0px;
+    width: 105%;
+}
+.amountdetai label {
+    width: 75%;
+    font-size: 12px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+}
+@media(max-width: 491px)
+{
+/*date picker */
+.datepicker
+{
+width: 50%;
+}
+
+/*payment review */
+div.reviewdetails {
+    background-color: white;
+    padding: 10px;
+    margin-left: 0px;
+    width: 100%;
+}
+div > .modal-photo-container12 {
+    display: none;
+}
+.inform {
+    position: absolute;
+    width: 68%;
+    top: 92%;
+    left: -23%;
+    /* right: 36%; */
+    z-index: 11;
+}
+.informdate {
+    background-color: ghostwhite;
+    padding: 10px;
+    /* margin: 12px; */
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 27%;
+    width: 98%;
+}
+.informdate div {
+    width: 52%;
+}
+
+.amountdetaidiv {
+    position: absolute;
+    top: 102%;
+    left: 0%;
+    z-index: 11;
+    width: 100%;
+    background: white;
+    padding: 10px;
+}
+.container-fluid2 {
+    margin-top: 31%;
+}
+.travellerdetail2 {
+    width: 100%;
+}
+.paymentdiv {
+    padding: 5px;
+    background-color: ghostwhite;
+    height: auto;
+    margin-top: 10px;
+   width: 96%;
+}
+.paymentdiv .tabitemimg button{
+ width: unset;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+
+/* activity */
+.top-grid {
+    width: 46%;
+}
+
+/*activity dailogebox */
+.checkavailabel a {
+    margin-top: 25%;
+}
+/*other added page on activity*/
+.infromationforus {
+    width: 100%;
+}
+.simple-card3 {
+    position: absolute;
+    top: 24%;
+    left: 6px;
+    right: 3px;
+}
+.simple-cardc {
+    padding: 10px 0 200px;
+    max-height: 100%;
+}
+.discriptionactivity {
+    width: 100%;
+    top: 176px;
+}
+.activitybooked {
+    float: right;
+    top: 44%;
+    right: 8%;
+    position: absolute;
+}
+/* bus seach*/
+.zoom1 {
+    transition: transform .8s;
+    width: 121%;
+    height: 100%;
+    margin-left: -61px;
+}
+
+.deparaf{
+margin-left: -46px;
+}
+
+.list-con{
+position: absolute;
+    top: 142px;
+    right: 150px;
+    width: 71%;
+
+}
+.bus-position .display-price {
+    float: right;
+    margin-top: 20px;
+    }
+.select-set {
+    margin-top: 20px;
+    margin-right: 28px;
+}
+.bus-position h4{
+    position: absolute;
+    top: 55px;
+    right: 86px;
+
+}
+ .select-set small.pull-right {
+    position: relative;
+  top:0px
+}
+.timeduration{
+    display: grid;
+    grid-gap: 10px 1px;
+    grid-template-columns: auto auto auto;
+}
+/* hotel,homestay searchfile*/
+   .zoom {
+   width: 115%;
+    height: -webkit-fill-available;
+    margin-left: -35px;
+}
+.information-container {
+   left: 39px;
+    top: 95px;
+}
+#homestay #image-container img {
+    width: 136px;
+    height: 100px;
+    margin-left: -15px;
+}
+#homestay .information-container small.pull-right {
+  bottom: 81px;
+    margin-right: -9px;
+}
+#homestay .information-container .display-price {
+    margin-top: 0px;
+    margin-right: 23px;
+}
+#image-container img {
+    width: 136px;
+    height: 100px;
+}
+.display-price {
+    margin-top: 7px;
+}
+.list-container-inline {
+    display: inline-block;
+    margin-bottom: 43px;
+    float: left;
+    margin-left: -138px;
+}
+.list-container-inlinehome{
+    display: inline-block;
+    margin-bottom: 42px;
+    margin-top: 20px;
+    float: left;
+   margin-left: -141px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 41%;
+    right: 15%;
+}
+.information-container small.pull-right {
+    margin-top: -87px;
+}
+.pull-right{
+padding-right: 25px;
+padding-bottom: 10px;
+}
+/* hotel homestay detaile */
+.Tableborder thead{
+display: none;
+}
+.tableposition td{
+border: unset;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    float: left;
+}
+.listfacility li {
+    list-style: none;
+    display: inline-flex;
+    margin-top: 30px;
+}
+#avaialablerooms tr{
+border-bottom: 2px solid #00253c;
+}
+#avaialablerooms .form-left-agileits-w3layouts button {
+    margin-left: 10px;
+    background-color: #F2670F;
+    border: none;
+    width: 115px;
+    height: 35px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+/*bus setting */
+#Seatselectionmodal .modal-body {
+    height: 525px;
+}
+div.seatCharts-container {
+    float: left;
+   width: 100%;
+}
+.booking-details {
+    float: right;
+    margin-left: 50%;
+    width: 47%;
+    margin-top: 0;
+}
+}
+
+@media(max-width: 481px)
+{
+
+/*homestay hotel */
+
+.information-container .display-price {
+    margin-top: 0px;
+    margin-right: 11px;
+}
+.information-container a[type="button"] {
+   position: absolute;
+   top: 36%;
+    right: 17%;
+    
+}
+ .information-container small.pull-right {
+    position: relative;
+   margin-top: -99px;
+}
+#homestay .zoom {
+    width: 118%;
+    margin-left: -42px;
+}
+#homestay .information-container #detail-container h3 {
+    font-size: 16px;
+}
+#homestay .information-container {
+    width: 82%;
+    top: 23%;
+    left: 8%;
+}
+#homestay .information-container a[type="button"] {
+    position: absolute;
+    top: 41%;
+    right: 49px;
+    width: 28%;
+}
+/* hotel homestay detail */
+#amneties .for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+   grid-template-columns: auto auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+.roomsrow div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+   width: 30%;
+}
+
+/*activity */
+.tab-widter {
+    width: 100%;
+    margin-bottom: -151px;
+}
+#checkAvailability {
+    margin-top: 24%;
+}
+/* bus search */
+.bus-position .list-con {
+    position: absolute;
+    top: 130px;
+    right: 179px;
+    }
+    .select-set button[type="button"] {
+    background-color: #F2670F;
+    border: none;
+    width: 115px;
+    height: 29px;
+    top: 10px;
+    margin-top: 15px;
+}
+.chekinout {
+    margin-top: 58px;
+    float: left;
+}
+    /* review payment */
+    .travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 0px;
+    width: 129%;
+}
+.travellerdetail2 {
+    background-color: #ccc;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.paymentclass {
+   margin-top: 105px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+}
+@media(max-width: 479px)
+{
+
+/*bus search*/
+.zoom1:hover {
+    transform: scale(1.00);
+}
+
+/* hotel,homestay searchfile*/
+.zoom {
+   width: 117%;
+    margin-left: -38px;
+}
+.information-container {
+  left: 9%;
+    top: 54%;
+}
+#image-container {
+    margin-bottom: -22px;
+}
+#image-container img {
+    width: 149px;
+    height: 100px;
+    }
+.display-price {
+    margin-top: 7px;
+}
+.list-container-inline {
+    display: inline-block;
+    margin-bottom: 43px;
+    float: left;
+    margin-left: -161px;
+}
+.list-container-inlinehome{
+    display: inline-block;
+    margin-bottom: 42px;
+    margin-top: 20px;
+    float: left;
+    margin-left: -152px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 39%;
+    right: 56px;
+}
+.information-container small.pull-right {
+        margin-top: -90px;
+}
+.pull-right{
+padding-right: 25px;
+padding-bottom: 10px;
+}
+}
+
+@media(max-width:414px)
+{
+/*date picker */
+.datepicker
+{
+width: 55%;
+}
+/* payment review */
+.informdate {
+    background-color: ghostwhite;
+    padding: 10px;
+    /* margin: 12px; */
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 47%;
+    width: 98%;
+}
+.informdate div {
+    width: 72%;
+}
+
+.container-fluid2 {
+    margin-top: 37%;
+}
+.travellerdetail-title2 {
+    margin-bottom: 10px;
+    width: 58%;
+}
+.paymentclass {
+    border-top: 1px solid #e7ebee;
+    margin-left: 5px;
+    margin-top: 99px;
+}
+.paymentdiv h3 {
+   position: relative;
+    padding: 12px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/* activity */
+.top-grid {
+    width: 45%;
+}
+.package1 .bottom-right {
+    left: 17%;
+    top: 54%;
+    /* width: 80%; */
+    padding: 0px;
+}
+.package1 .bottom-left {
+    left: 29%;
+    top: 57%;
+}
+.package1 a {
+    background: #F2670f;
+    color: #fff;
+    padding: 3px 6px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.package1 .bottom-right {
+    left: 19%;
+    top: 52%;
+    /* width: 80%; */
+    padding: 0px;
+}
+.room-selector a[type="button"] {
+    margin-right: 0px;
+}
+/* activity dailogebox */
+agelimit {
+    margin-top: -154px;
+    margin-left: 126px;
+}
+.checkavailabel a {
+    margin-top: 30%;
+}#checkAvailability {
+    margin-top: 30%;
+}
+
+/* other page added on activity page*/
+.activitybooked {
+    float: right;
+    top: 42%;
+    right: 8%;
+    position: absolute;
+}
+/* bus seach*/
+
+
+.zoom1 {
+    transition: transform .8s;
+    width: 126%;
+    height: 100%;
+    margin-left: -41px;
+    
+}
+.dlt {
+    border-right:unset;
+    }
+    .ok{
+    display: none;
+    }
+ .bus-position {
+    position: absolute;
+    width: 78%;
+    left: 113px;
+}
+   .deparaf {
+    margin-left: -47px;
+    width: 124%;
+}
+
+#image-container1 img {
+    max-width: 80px;
+    }
+    
+    
+/* hotel,homestay searchfile*/
+
+.zoom {
+    width: 131%;
+    margin-left: -46px;
+}
+#image-container img {
+    width: 125px;
+    height: 100px;
+}
+.information-container {
+    left: 5%;
+    top: 55%;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 40%;
+    left: 55%;
+    right: 0%;
+}
+.information-container .display-price {
+    margin-top: 5px;
+    margin-right: 19px;
+}
+.list-container-inline {
+   display: inline-block;
+    margin-bottom: 43px;
+    float: left;
+    margin-left: -124px;
+}
+.list-container-inlinehome {
+    display: inline-block;
+    margin-bottom: 42px;
+    margin-top: 20px;
+    float: left;
+    margin-left: -119px;
+}
+
+h4.display-text{
+font-size:12px;
+}
+.information-container small.pull-right {
+    margin-top: -90px;
+}
+.row-mar .polaroid-box {
+    /* margin-top: -36px; */
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 1px 5px 7px 3px #aaaaaa;
+    /* margin-bottom: -45px; */
+    color: #536d9e;
+    width: 114%;
+    margin-left: -29px;
+}
+
+
+#homestay .zoom {
+    width: 127%;
+    margin-left: -43px;
+}
+#homestay .information-container {
+   left: 8%;
+    top: 36%;
+}
+#homestay .information-container a[type="button"] {
+    position: absolute;
+    top: 40%;
+    right: 15%;
+    width: 28%;
+}
+#homestay #image-container img {
+    width: 125px;
+    height: 100px;
+    margin-left: -15px;
+}
+/* hotel homestay detaile */
+.exampleimage img {
+  width: 100%;
+    height: 55%;
+}
+.imagecolum {
+    top: 10px;
+    width: 92%;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    right: -18px;
+    padding: 0px;
+}
+.room-selector {
+    display: inline;
+    margin-top: 0px;
+    margin-right: -20px;
+    float: right;
+}
+.chekinout {
+  margin-top: 44%;
+}
+#rooms .roomsrow div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width: 28%;
+}
+#amneties .for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+   grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+#paymentoption {
+    height: 100%;
+}
+/*bus set */
+div.seatCharts-container {
+      width: 57%;
+    float: left;
+    margin-left: -7px;
+}
+.bus-position .list-con {
+   display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto;
+    right: 161px;
+    top: 94px;
+    width: 60%;
+    font-size: 12px;
+}
+
+.select-set button[type="button"] {
+    background-color: #F2670F;
+    border: none;
+    width: 96px;
+    height: 25px;
+    padding: 2px;
+    top: 10px;
+    margin-top: 15px;
+}
+/*footer */
+
+.footer-top .footer-Subscribe {
+    width: 75%;
+    padding: 0px;
+    left: 47px;
+}
+
+}
+@media(max-width:385px)
+{
+/*date picker */
+.datepicker
+{
+width: 60%;
+}
+/* payment review */
+.container-fluid2 {
+    margin-top: 40%;
+}
+.travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 0px;
+    width: 170%;
+}
+.paymentdiv h3 {
+  position: relative;
+    left: 0px;
+    width: 100%;
+    padding: 4px;
+}
+
+.traveller td{
+float: left;
+width: 100%;
+}
+.inform {
+    position: absolute;
+    width: 68%;
+    top: 92%;
+    left: -30%;
+    }
+/* activity dailogebox */
+.agelimit {
+    margin-top: -154px;
+    margin-left: 100px;
+}
+#checkAvailability {
+    margin-top: 33%;
+}
+/* other added page on activity */
+.discriptionactivity {
+    width: 100%;
+    top: 188px;
+}
+/*bus search*/
+#image-container1 img {
+    display: none;
+  }
+  .bus-position {
+    position: absolute;
+    width: 78%;
+    left: 86px;
+}
+.zoom1 {
+    width: 137%;
+    margin-left: -59px;
+    padding-bottom: 77px;
+}
+.deparaf {
+    margin-left: -84px;
+    width: 136%;
+}
+
+   .list-con {
+    position: absolute;
+    top: 92px;
+    right: 150px;
+    width: 71%;
+}
+.timeduration label{
+font-size: 12px;
+}
+.bus-position .list-con {
+    display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto;
+    /* margin-left: 30px; */
+    right: 193px;
+    top: 99px;
+    width: 60%;
+    font-size: 12px;
+}
+.select-set button[type="button"]{
+margin-top: 11px;
+   margin-right: 0px;
+}
+.select-set small.pull-right {
+   position: relative;
+    top: -6px;
+    left: -5px;
+    }
+
+/* hotel,homestay searchfile*/
+.list-container-inline {
+    display: inline-flex;
+    margin-bottom: 43px;
+    float: left;
+   margin-left: -126px;
+}
+.bus-position h4 {
+   position: absolute;
+    top: 62px;
+    right: 185px;
+}
+.information-container {
+   left: 8%;
+    top: 55%;
+}
+.information-container .display-text {
+    display: inline;
+    padding: 0;
+    font-size: 14px;
+}
+#homestay .information-container {
+    left: 11%;
+    top: 34%;;
+}
+#homestay .information-container a[type="button"] {
+   position: absolute;
+    top: 41%;
+    right: 18%;
+    width: 28%;
+    padding: 0px;
+    height: 19px;
+}
+#homestay #image-container img {
+    width: 129px;
+    height: 100px;
+    margin-left: -15px;
+}
+
+/* hotel home stay details */
+#rooms .roomsrow div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 0px;
+    width: 32%;
+}
+#amneties .for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+   grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+.forresponsive{
+width: 81%;
+}
+.exampleimage img {
+    width: 106%;
+    height: 55%;
+}
+.tableposition td {
+    border: unset;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    float: left;
+    font-size: 12px;
+}
+
+/*bus set*/
+#Seatselectionmodal .modal-body {
+    height: 424px;
+}
+
+.booking-details {
+    float: right;
+    /* margin-left: 28%; */
+    width: 45%;
+    margin-top: 0;
+}
+div.seatCharts-row {
+    height: 35px;
+    width: 18%;
+    display: inline-grid;
+}
+div.seatCharts-container {
+    width: 61%;
+    float: left;
+    margin-top: -55px;
+}
+}
+@media(max-width:376px)
+{
+/*activity */
+.top-grid {
+    width: 44%;
+}
+
+/* hotel,homestay searchfile*/
+
+#detail-container h3{
+font-size: 15px;
+}
+.display-price {
+   margin-top: 2px;
+    margin-right: -10px;
+}
+a[type="button"] {
+    position: absolute;
+    top: 82px;
+    right: 33px;
+}
+
+/* hotel home saty detaile */
+.roomsrow div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width: 35%;
+}
+.amneties .for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+.forresponsive {
+    width: 83%;
+}
+.exampleimage img {
+    width: 106%;
+    height: 55%;
+}
+/* review payment */
+.travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 0px;
+    width: 177%;
+}
+}
+@media(max-width:375px)
+{
+/*payment review */
+.informdate {
+    background-color: ghostwhite;
+    padding: 10px;
+    /* margin: 12px; */
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 53%;
+    width: 98%;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+/*activity */
+.room-selector a[type="button"] {
+    position: absolute;
+    top: 0px;
+    left: 260px;
+    width: 23%;
+    height: 24px;
+    padding: 2px;
+}
+ .room-selector h4 {
+margin-top: -40px;
+}#checkAvailability {
+    margin-top: 35%;
+}
+
+/* hotel,homestay searchfile*/
+#detail-container h3{
+font-size: 15px;
+}
+    .display-price {
+    margin-top: 10px;
+    margin-right: -10px;
+}
+a[type="button"] {
+   position: absolute;
+   top: -40px;
+    left: 0px;
+    right: 0px;
+}
+#paynow , #payatproperty
+{
+    margin-top: 50px;
+}
+.payselector {
+    margin-top: 15px;
+}
+
+.list-container-inlinehome {
+    display: inline-block;
+    margin-bottom: 42px;
+    margin-top: 20px;
+    float: left;
+    margin-left: -119px;
+    font-size: 14px;
+}
+}
+@media(max-width:360px){
+/* bus search */
+.list-con {
+    position: absolute;
+    top: 92px;
+    right: 150px;
+    width: 78%;
+}
+/*bus set */
+div.seatCharts-row {
+    height: 35px;
+    width: 15%;
+    display: inline-grid;
+}
+div.seatCharts-container {
+   width: 76%;
+    float: left;
+    margin-top: -55px;
+    /* margin-left: -15px; */
+}
+/* hotel,homestay searchfile*/
+.zoom {
+   width: 125%;
+}
+
+#detail-container h3{
+font-size: 19px;
+}
+h4.display-text {
+    font-size: 9px;
+}
+
+.information-container {
+   left: 12%;
+    top: 55%;
+}
+#image-container img {
+       width: 132px;
+    height: 100px;
+}
+.list-container-inline {
+    display: inline-flex;
+    margin-bottom: 43px;
+    float: left;
+    font-size: 12px;
+    margin-left: -125px;
+}
+.display-price {
+   font-size: 14px;
+    margin-top: 1px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 37%;
+    right: 20%;
+    width: 32%;
+    height: 10%;
+    padding: 1px 3px;
+    margin: 12px 0px;
+}
+.information-container small.pull-right {
+    margin-top: 0;
+    /* margin-right: 25px; */
+        top: -87px;
+    left: 0;
+}
+.information-container #detail-container h3 {
+    font-size: 17px;
+}
+#homestay .information-container small.pull-right {
+    margin-top: 0;
+    /* margin-right: 25px; */
+    top: -20px;
+    left: 0;
+}
+#homestay #image-container img {
+    width: 119px;
+    height: 100px;
+    margin-left: -15px;
+}
+/*hotel homestay detiale */
+.roomsrow div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width: 36%;
+}
+#amneties .for-grider1 {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 10px 5px 10px 5px;
+    border: 0.25em solid #00253c;
+}
+.forresponsive {
+    width: 87%;
+}
+.exampleimage img {
+    width: 100%;
+    height: 55%;
+}
+#paymentheader h3 {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    font-size: 20px;
+}
+/*activity */
+.package1 .bottom-left {
+    left: 28%;
+    top: 54%;
+}
+.chekinout {
+    margin-top: 58%;
+    float: left;
+}#checkAvailability {
+    margin-top: 32%;
+}
+.activitybooked {
+    float: right;
+    top: 44%;
+    right: 35%;
+    position: absolute;
+}
+/* review payment */
+.travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 13px 0px 0px 0px;
+    width: 177%;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+.room-selector a[type="button"] {
+    position: absolute;
+    top: -20px;
+    left: 260px;
+    width: 20%;
+    height: 24px;
+    padding: 2px;
+}
+}
+
+@media(max-width:320px)
+{
+/*date picker */
+.datepicker
+{
+width: 70%;
+}
+
+/* payment review */
+.travellerdetail-title2 h3 {
+    background: linear-gradient(90deg, #3F5EF1, #ea2331);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: rubik, sans-serif;
+    margin: 0px;
+   font-size: 14px;
+    width: 100%;
+}
+
+   .paymentdiv h3 {
+    position: relative;
+    left: 0px;
+    width: 100%;
+    padding: 12px 0px;
+}
+.traveller td{
+float: left;
+width: 100%;
+}
+.radioforgrid {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+    border-radius: 4px;
+    padding: 1px 0px 0px 0px;
+    width: 100%;
+    font-size: 10px;
+}
+/* activity */
+.top-grid {
+    width: 100%;
+}
+.polaroid-box
+{
+max-height: 870px;
+}
+.imagecolum {
+   top: 9px;
+    left: 6px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    right: 0;
+}
+.forresponsive {
+    width: 98%;
+}
+   .exampleimage img {
+    width: 115%;
+    height: 55%;
+}
+.chekinout {
+   width: 71%;
+    top: 17px;
+}
+.chekinout h2,.chekinout p{
+font-size:12px;
+}
+.room-selector a[type="button"] {
+   position: absolute;
+    top: -18px;
+    left: 73%;
+    width: 25%;
+}
+
+/* activity dailogebox */
+.agelimit {
+    margin-top: -154px;
+    margin-left: 83px;
+}
+.informdate div {
+    width: 98%;
+}
+.checkavailabel a {
+    margin-top: 39%;
+}
+.container-fluid2 {
+    margin-top: 50%;
+}
+#checkAvailability {
+    margin-top: 40%;
+}
+.discriptionactivity {
+    width: 100%;
+    top: 215px;
+}
+.simple-cardc {
+    padding: 10px 0 227px;
+    max-height: 100%;
+}
+/*bus search*/
+.zoom1 {
+   width: 150%;
+    margin-left: -56px;
+    height: 133px;
+    padding-bottom: 0;
+}
+.bus-position {
+    position: absolute;
+    width: 83%;
+    left: 87px;
+}
+.timeduration {
+    display: grid;
+    grid-gap: 10px 1px;
+    grid-template-columns: auto auto auto;
+    margin-left: -32px;
+}
+.bus-position .list-con {
+    display: grid;
+    grid-gap: 1px 1px;
+    grid-template-columns: auto auto auto;
+    /* margin-left: 30px; */
+    right: 177px;
+    top: 99px;
+    width: 60%;
+    font-size: 12px;
+}
+.deparaf {
+    margin-left: -126px;
+    width: 165%
+    }
+/* hotel,homestay searchfile*/
+
+.list-container-inlinehome {
+   display: inline-block;
+    margin-bottom: 23px;
+    margin-top: 8px;
+    float: left;
+    margin-left: -111px;
+    font-size: 13px;
+    width: 113%;
+}
+
+.zoom {
+    width: 132%;
+    margin-left: -44px;
+}
+
+.information-container #detail-container h3 {
+    font-size: 11px;
+}
+h4.display-text {
+    font-size: 9px;
+}
+.zoom .information-container {
+        left: -1%;
+        top: 190%;
+       width: 75%;
+}
+#image-container img {
+       width: 95px;
+    height: 56px;
+}
+.list-container-inline {
+   display: inline-flex;
+    margin-top: 0px;
+    margin-bottom: 35px;
+    float: left;
+    margin-left: -111px;
+    font-size: 13px;
+}
+.information-container .display-price {
+    font-size: 12px;
+        margin-top: 9px;
+    margin-right: -3px;
+}
+.information-container .display-text {
+    display: inline;
+    padding: 0;
+    font-size: 10px;
+}
+.information-container a[type="button"] {
+    position: absolute;
+    top: 31%;
+    right: 0px;
+    left: 146px;
+}
+ .information-container small.pull-right {
+      position: relative;
+      
+    right: 0px;
+    left: 34px;
+    font-size: 11px;
+}
+
+.row-mar .polaroid-box {
+       
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 1px 5px 7px 3px #aaaaaa;
+   color: #536d9e;
+       width: 119%;
+    height: 116px;
+  
+}
+#homestay .zoom {
+    width: 146%;
+    margin-left: -54px;
+    height: 114px;
+}
+#homestay .zoom .information-container {
+   left: 3%;
+   top: 62%;
+    width: 75%;
+}
+#homestay .information-container small.pull-right {
+  position: relative;
+    top: -76px;
+    left: 27px;
+    right: 0;
+    width: 63%;
+    font-size: 11px;
+    
+}
+#homestay #image-container img {
+    width: 112px;
+    height: 82px;
+    margin-bottom: 15px;
+    margin-left: -15px;
+}
+#homestay .information-container .display-price {
+    margin-top: 14px;
+    margin-right: 13px;
+}
+/* hotel homestay detaile */
+.roomsrow div.editContent {
+    display: inline-block;
+    border-right: unset;
+    /* border-bottom: 2px solid gainsboro; */
+    height: 59px;
+    padding-left: 15px;
+    width: 43%;
+}
+.tableposition td {
+    border: unset;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    float: left;
+    font-size: 12px;
+    width: 50%;
+}
+.photo-container1 {
+    max-height: 150px;
+    padding: 5px;
+    min-height: 150px;
+    max-width: 138px;
+    border-radius: 5px;
+}
+/*bus set */
+div.seatCharts-container {
+      width: 90%;
+    float: left;
+}
+div.seatCharts-row {
+    height: 35px;
+    width: 15%;
+    display: inline-grid;
+}
+.seatCharts-cell{
+width: 56%;
+height: 74%;
+}
+.booking-details {
+       padding: 0;
+    /* margin-left: 186px; */
+    margin-right: -11px;
+    width: 36%;
+    margin-top: 0;
+    border-left: unset;
+}
+/*........footer....responcive............*/
+
+.footerlinks {
+    /* margin-top: 60px; */
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto;
+    /* border-radius: 4px; */
+    padding:1px;
+    /* background: gainsboro; */
+}
+
+.footer-top {
+    text-align: left;
+    margin-left: 0px;
+}
+.footer-top .footer-Subscribe {
+       width: 73%;
+    padding: 0px;
+}
+
+.footer-top input[type="submit"] {
+        outline: none;
+    color: #FFFFFF;
+    padding: 4px 1px;
+    font-size: 12px;
+    background: #06247e;
+    border: none;
+    border-radius: 0px;
+    position: absolute;
+    right: 0px;
+   
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+
+
+
+.footer-top input[type="email"] {
+    background-color: white;
+    display: inline-block;
+    border: none;
+    float: left;
+    width: 100%;
+    outline: none;
+    padding: 5px 0px;
+    font-size: 11px;
+    letter-spacing: 1px;
+        left: -48px;
+}
+.feedbacksubmit{
+  float: right;
+  margin-top:0px;
+ }
+.OurProduct {
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: auto auto;
+    /* border-radius: 4px; */
+     padding: 10px 10px 10px 10px; 
+    /* background: gainsboro; */
+}
+} 
+ 

@@ -1,0 +1,130 @@
+body{
+	padding: 0px;
+	margin: 0px; 
+}
+.barter{
+	background:#D2D7D3;
+	padding:10px 10px 10px 20px;
+	margin:10px 10px 10px 10px;
+	border-radius:2px;
+	list-style: none; 
+}
+
+
+.head{
+	padding:20px; 
+	background:#3A539B; 
+
+}
+.bordernone
+{
+	border:none;
+}
+
+.navbar-header img
+{
+padding-left:40px; 
+margin-left:50px;
+}
+
+
+.logged
+{
+	float:right;
+	padding-top:0px;
+	color:white;  
+}
+#countrye
+{
+	margin-top: 20px;
+}
+.inventry
+{
+	margin-left:420px; 
+	color:white;
+}
+
+button[type="submit"]{
+	background-color: rgb(249, 228, 130);
+
+}
+
+
+button[type="button"]
+{
+	background-color: rgb(249, 228, 130);
+}
+p
+{
+	font-size:18px;
+}
+li
+{
+	font-size:15px;
+}
+.mar
+{
+	margin-bottom: 15px;
+}
+.numbers{
+	width:40px; 
+	height:40px; 
+
+}
+
+.erro
+{
+	margin-top: 15px;
+	padding: 15px 5px 5px 10px;
+	color:red;
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) 
+{ 
+
+.inventry {
+    margin-left:15px;
+    margin-top: -10px; 
+    color: white;
+}
+.logged {
+    float: left;
+    padding-top: 0px;
+    margin-left: 0px;
+    color: white;
+}
+
+.navbar-header{
+	margin-left: 100px; 
+	background:#3A539B; 
+
+}
+
+	.navbar-brand img{
+		margin-left:0px;
+		    padding-left: 0px;
+	}
+	body
+	{
+		margin: 0px;
+		padding: 0px;
+		width:100%; 
+	}
+	h1{
+		color:red;
+	}
+
+ }
+
+/* Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width */

@@ -1,0 +1,386 @@
+.editContent123{
+text-align:left;
+padding:2px;
+width: 200px;
+}
+/*----end---Alam-popular offers------*/
+.packages_grid2 {
+    margin-top: 3em;
+}
+
+/*-- contact --*/
+.w3ls_map iframe {
+	width: 100%;
+	min-height: 300px;
+}
+
+.contact_wthreerow,
+.agileits_mail_grid_right_grid:nth-child(2) {
+	margin-top: 3em;
+}
+
+.w3l_contact_form {
+	padding-right: 5em;
+}
+
+.contact_wthreerow h4 {
+	font-size: 1.7em;
+	color: #000000;
+	margin-bottom: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.w3l_contact_form input[type="text"],
+.w3l_contact_form input[type="email"],
+.w3l_contact_form textarea {
+	outline: none;
+	width: 100%;
+	padding: .7em 1em;
+	font-size: .9em;
+	color: #888;
+	border: none;
+	border: 1px solid #777;
+	background: none;
+}
+
+.w3l_contact_form input[type="email"] {
+	margin: 1.5em 0;
+}
+
+.w3l_contact_form textarea {
+	min-height: 120px;
+	resize: none;
+	margin: 1.5em 0;
+}
+
+.w3l_contact_form input[type="submit"] {
+	outline: none;
+	padding: .7em 4em;
+	font-size: 1em;
+	color: #fff;
+	border: none;
+	background: #2c925e;
+	-webkit-transition: .5s all;
+	-moz-transition: .5s all;
+	transition: .5s all;
+}
+
+.w3l_contact_form input[type="submit"]:hover {
+	background: #333;
+	color: #fff;
+}
+
+ul.contact_info li {
+    list-style-type: none;
+    margin-top: 1.5em;
+    letter-spacing: 1px;
+    color: #5a5a5a;
+    font-size: 1em;
+}
+
+ul.contact_info li span {
+	color: #fff;
+	background: #db3552;
+	width:40px;
+	height:40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 100%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+	margin-right: 1em;
+	font-size: .9em;
+}
+
+ul.contact_info li a {
+    color: #5a5a5a;
+	text-decoration: none;
+}
+
+ul.contact_info li a:hover {
+	color: #4CAF50;
+}
+.agileits_mail_grid_right_grid p {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    color: #333;
+}
+.w3-about h4 {
+    text-transform: uppercase;
+    margin: 0em 0 1em;
+    color: #000;
+    font-size: 1.4em;
+    line-height: 32px;
+    text-align: left;
+    font-weight: 500;
+}
+.last h4 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.about-top p {
+    text-align: left;
+}
+.last p {
+    text-align: center;
+}
+.middle-img img {
+    width: 100%;
+}
+/*-- //contact --*/
+
+/*-- stats --*/
+.stats {
+    background: url(../images/prayerwheels.jpg) no-repeat fixed;
+    background-size: cover;
+	padding: 5em 0;
+}
+.travel span.glyphicon.glyphicon-play-circle {
+    margin-bottom: 0;
+}
+p.counter{
+	font-size: 2.5em;
+    color: #eee;
+    font-weight: bold;
+}
+.agileinfo_stats_grid h3{
+    font-size: 1.1em;
+    color: #fff;
+    font-weight: 100;
+}
+.w3_agileits_head1{
+	color:#212121 !important;
+}
+.agileinfo_stats_grid {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1.5em 0;
+}
+.agileinfo_stats.mid-w3l-stat {
+	position: relative;
+}
+.agileinfo_stats.mid-w3l-stat:after, .agileinfo_stats.mid-w3l-stat:after {
+    content: '';
+    background: #fff;
+    height: 3px;
+    width: 27%;
+    position: absolute;
+    top: 50%;
+    left: -13%;
+}
+p.w3l-par-st {
+    margin-top: 3em;
+    color: #fff;
+    text-align: left;
+}
+/*-- //stats --*/
+
+/*-- testimonials --*/
+h3.title {
+    text-align: center;
+    font-size: 45px;
+    text-transform: capitalize;
+    font-weight: 100;
+    color: #444;
+    margin-bottom: 1em;
+}
+.stats h3.title {
+    color: #fff;
+}
+.test-grid i {
+    width: 50px;
+    height: 50px;
+    line-height: 46px;
+    border-width: 2px;
+    border: 2px solid #db3552;
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    color: #db3552;
+    text-align: center;
+}
+
+.test-grid h4 {
+    font-size: 1.2em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin: 1em 0 0.2em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.test-grid p {
+    font-size: 16px;
+    line-height: 2em;
+    letter-spacing: 1px;
+    margin: 0 auto 1em;
+    width: 75%;
+}
+
+.test-grid span {
+    font-size: 0.9em;
+    color: #484747;
+    letter-spacing: 4px;
+}
+
+.wthree_head_section.test h3 {
+    color: #111;
+}
+
+.test-grid1 {
+    margin: 0 auto 1em;
+    text-align: center;
+    width: 20%;
+}
+
+.test-grid {
+    text-align: center;
+    padding: 2em;
+    margin: 0 2em;
+    border-top:1px solid #ddd;
+    border-bottom:1px solid #bbb;
+	-webkit-box-shadow: 0px 1px 10px 1px #bababa;
+    -moz-box-shadow: 0px 1px 10px 1px #bababa;
+    -o-box-shadow: 0px 1px 10px 1px #bababa;
+    -ms-box-shadow: 0px 1px 10px 1px #bababa;
+    box-shadow: 0px 1px 10px 1px #bababa;
+}
+
+.test-grid2 img {
+    border-radius: 50%;
+	-webkit-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+}
+
+.test-grid2_text {
+    margin-left: 1em;
+    text-align: left;
+}
+/*-- //testimonials --*/
+
+/*-- newsletter --*/
+.agile-leftmk {
+    padding: 2em;
+    position: absolute;
+    top: -16%;
+    z-index: 9;
+    background: #fff;
+    width: 48%;
+    text-align: center;
+    left: 25%;
+	-webkit-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+    margin-top: 20px;
+}
+
+h3.title-w3l-2 {
+    font-size: 2.5em;
+    letter-spacing: 1px;
+    color: #03A9F4;
+}
+/*-- //newsletter --*/
+ /* popup signup form styling */
+.agile_signup_form h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: #212121;
+    position: relative;
+    padding-bottom: 0em;
+}
+.agile_signup_form select.form-control {
+    display: initial;
+    margin-top: 0;
+    color: #777;
+}
+.register {
+    background-color: #db3552;
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    font-size: 15px;
+    font-weight: normal;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+.w3_submit {
+    margin: 0 auto;
+    width: 30%;
+}
+.register:hover {
+    background-color: #2c925e;
+}
+/* //popup signup form styling */
+
+/*-- slider-up-arrow --*/
+#toTop {
+	display: none;
+	text-decoration: none;
+	position: fixed;
+	bottom: 3%;
+	right: 3%;
+	overflow: hidden;
+	width: 32px;
+	height: 32px;
+	border: none;
+	text-indent: 100%;
+	background: url("../images/move-up.png") no-repeat 0px 0px;
+}
+#toTopHover {
+	width: 32px;
+	height: 32px;
+	display: block;
+	overflow: hidden;
+	float: right;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter: alpha(opacity=0);
+}
+/*-- //slider-up-arrow --*/
+
+
+
+@/*media(max-width:1440px){
+	
+}
+@media(max-width:1366px){
+.footer-grid input[type="submit"] {
+    width: 32%;
+}
+.footer-grid p {
+    width: 85%;
+}
+}
+@media(max-width:1280px){
+.footer-grid p {
+    width: 93%;
+}	
+}
+@media(max-width:1024px){
+.ftr-bottom-grid p {
+    width: 100%;
+}	
+.footer-grid input[type="text"] {
+    font-size: 0.9em;
+    width: 45%;
+}

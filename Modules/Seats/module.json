@@ -1,0 +1,16 @@
+{
+    "name": "Seats",
+    "alias": "seats",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Seats\\Providers\\SeatsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
